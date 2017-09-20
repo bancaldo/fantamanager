@@ -1,0 +1,6 @@
+venv
+fantalega/days/*.txt
+*.pyc
+*.zip
+.idea
+fantalega.db
